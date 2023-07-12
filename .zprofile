@@ -7,3 +7,7 @@ cd ~/Documents/ESSENCIALS/
 git add --all
 git commit -m "$(date)"
 git push origin main
+
+cd
+clear
+
