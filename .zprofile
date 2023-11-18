@@ -6,6 +6,7 @@ cp ~/.zprofile ~/Documents/ESSENCIALS/
 cp ~/.zshrc ~/Documents/ESSENCIALS/
 
 PWDDIRTMP="$(pwd)"
+echo $PWDDIRTMP
 
 cd ~/Documents/ESSENCIALS/
 git add --all
